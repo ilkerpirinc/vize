@@ -1,0 +1,2 @@
+# vize
+vize öncesi çalışma
